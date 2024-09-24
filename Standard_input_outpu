@@ -1,0 +1,41 @@
+*fun main(args: Array<String>) {
+    //SampleStart
+    println("Hello to kotlin and Android World ")
+    print("Aditya Hegde")
+    print(" In 2024")
+}
+
+
+
+Output:
+
+Hello to kotlin and Android World 
+Aditya Hegde In 2024*/
+
+
+/*fun main(args: Array<String>) {
+    //SampleStart
+    println("Hello to kotlin and Android World ")
+    println("Aditya Hegde")
+    println(" In 2024")
+}
+
+
+Output:
+
+Hello to kotlin and Android World 
+Aditya Hegde
+ In 2024*/
+
+
+/*fun main(args: Array<String>) {
+    //SampleStart
+    print("Hello to kotlin and Android World ")
+    println("Aditya Hegde")
+    print(" In 2024")
+}
+
+Output:
+
+Hello to kotlin and Android World Aditya Hegde
+ In 2024*/
