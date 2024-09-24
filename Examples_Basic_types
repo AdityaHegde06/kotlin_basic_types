@@ -1,0 +1,67 @@
+*fun main() {
+    
+    //SampleStart
+    
+    val popcorn = 5  //There are  5 boxes og popcorn
+    val hotdog= 7    //There are 7 hotddogs
+     var customers =10  //there are 10 customers in queue
+
+  
+  // Some customer leave the queue
+  customers = 8 
+  println(customers)
+  
+  //8
+  //SampleEnd
+}*/
+
+
+
+
+//example 2
+
+/*fun main(){
+  
+  
+  //ravi tanmay and   get balls
+  var ramanHasBalls =  9
+  var  raviHasBalls =  20
+  val TanmayHasBalls = 9
+  
+  // After   Ravi asked his father he leave 11 balls
+  
+       raviHasBalls  = 9
+       
+       //RAMAN  also leave 3 balls
+       ramanHasBalls = 6
+       println(ramanHasBalls)
+       println(raviHasBalls)
+}*/
+
+
+
+//example 3
+
+/*fun main(args:Array<String>){
+  
+  
+  //vehicles Type
+  
+  var carname = "Ford"
+  var bikename="Honda"
+  
+  
+  // changing car namr
+  
+  //You are using val and var with the same variable names (car and bike) which causes a redeclaration error.
+  //var car="Hyundai"
+  //val bike="Royal"
+  
+  carname = "INNOVA"
+  bikename = "Royal enfirld"
+  
+  println(carname)
+  println(bikename)
+  
+  
+}*/
